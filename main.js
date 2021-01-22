@@ -1,5 +1,5 @@
 // Defining text characters for the empty and full hearts for you to use later.
- 
+
 // Your JavaScript code goes here!
 
 const EMPTY_HEART = '♡'
